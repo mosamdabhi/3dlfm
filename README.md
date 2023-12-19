@@ -18,7 +18,7 @@ Welcome to the official repository for the **3D Lifting Foundation Model (3D-LFM
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/3dlfm.git
+    git clone https://github.com/mosamdabhi/3dlfm.git
     cd 3dlfm
     ```
 
@@ -30,9 +30,9 @@ Welcome to the official repository for the **3D Lifting Foundation Model (3D-LFM
 
 ### Running the Demo
 
-Launch the `demo.ipynb` notebook using Jupyter:
+Launch the `3dlfm_visualization.ipynb` notebook using Jupyter:
 ```bash
-    jupyter notebook demo.ipynb
+    jupyter notebook 3dlfm_visualization.ipynb
 ```
 Follow the instructions in the notebook for an interactive experience.
 
