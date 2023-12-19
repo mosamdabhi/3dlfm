@@ -30,9 +30,9 @@ Welcome to the official repository for the **3D Lifting Foundation Model (3D-LFM
 
 ### Running the Demo
 
-Launch the `3dlfm_visualization.ipynb` notebook using Jupyter:
+Launch the `demo_vis.ipynb` notebook using Jupyter:
 ```bash
-    jupyter notebook 3dlfm_visualization.ipynb
+    jupyter notebook demo_vis.ipynb
 ```
 Follow the instructions in the notebook for an interactive experience.
 
