@@ -1,3 +1,6 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/3d-lfm-lifting-foundation-model/3d-human-pose-estimation-on-h3wb)](https://paperswithcode.com/sota/3d-human-pose-estimation-on-h3wb?p=3d-lfm-lifting-foundation-model)
+
+
 # 3D Lifting Foundation Model (3D-LFM) 🌐
 
 Welcome to the official repository for the **3D Lifting Foundation Model (3D-LFM)**, a model designed to lift 2D landmarks into high-fidelity 3D structures across diverse object categories. 🚀
