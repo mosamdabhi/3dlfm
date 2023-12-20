@@ -59,7 +59,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## License 📜
 
-Distributed under the BSD License. See LICENSE for more information.
+Distributed under the BSD-3-Clause license. See LICENSE for more information.
 
 ## Contact 📫
 
