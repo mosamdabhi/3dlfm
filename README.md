@@ -17,7 +17,7 @@
 
 Welcome to the official repository for the **3D Lifting Foundation Model (3D-LFM)**, a model designed to lift 2D landmarks into high-fidelity 3D structures across diverse object categories. 🚀
 
-**Current Status:** This repository currently supports **demo visualization of the model's performance**. The comprehensive codebase, including actual training and evaluation functionalities, will be **released soon**.
+**Current Status:** This repository currently supports **demo visualization of the model's performance**. The comprehensive codebase, including actual training and evaluation functionalities, will be **released soon** (Update - ETA: We plan to release by March 20th, 2024).
 
 
 
