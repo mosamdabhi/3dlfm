@@ -17,7 +17,7 @@
 
 Welcome to the official repository for the **3D Lifting Foundation Model (3D-LFM)**, a model designed to take 2D landmarks and generate high-fidelity 3D poses across diverse object categories. 🚀
 
-<img src="https://3dlfm.github.io/graphics/teaser_all.gif" alt="" style="zoom: 60%;" />
+<img src="https://3dlfm.github.io/assets/teaser.gif" alt="" style="zoom: 60%;" />
 
 **Current Status:** This repository currently supports **demo visualization of the model's performance**. The comprehensive codebase, which includes actual training and evaluation functionalities, is planned for release as soon as the licensing information becomes available.
 
