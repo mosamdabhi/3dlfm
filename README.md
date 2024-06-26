@@ -1,4 +1,7 @@
+
 <div align="center">
+
+  # 3D Lifting Foundation Model (3D-LFM) 🌐
   
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/3d-lfm-lifting-foundation-model/3d-human-pose-estimation-on-h3wb)](https://paperswithcode.com/sota/3d-human-pose-estimation-on-h3wb?p=3d-lfm-lifting-foundation-model) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/3d-lfm-lifting-foundation-model/3d-facial-landmark-localization-on-h3wb)](https://paperswithcode.com/sota/3d-facial-landmark-localization-on-h3wb?p=3d-lfm-lifting-foundation-model) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/3d-lfm-lifting-foundation-model/3d-hand-pose-estimation-on-h3wb)](https://paperswithcode.com/sota/3d-hand-pose-estimation-on-h3wb?p=3d-lfm-lifting-foundation-model)
 
@@ -11,13 +14,18 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmosamdabhi%2F3dlfm&count_bg=%2379C83D&title_bg=%23453535&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)    
 </div>
 
-# 3D Lifting Foundation Model (3D-LFM) 🌐
+
 
 </div>
 
 Welcome to the official repository for the **3D Lifting Foundation Model (3D-LFM)**, a model designed to take 2D landmarks and generate high-fidelity 3D poses across diverse object categories. 🚀
 
+<div align="center">
+  
+  ## 3D Pose for anything!
+  
 <img src="https://3dlfm.github.io/assets/teaser.gif" alt="" style="zoom: 60%;" />
+</div>
 
 **Current Status:** This repository currently supports **demo visualization of the model's performance**. The comprehensive codebase, which includes actual training and evaluation functionalities, is planned for release as soon as the licensing information becomes available.
 
